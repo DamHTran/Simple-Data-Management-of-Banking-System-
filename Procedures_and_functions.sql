@@ -69,7 +69,7 @@ DELIMITER ;
 
 SELECT get_funded_amnt(@v_member_id);
 
-COMMIT;
+
 
 
 -- Trigger 
