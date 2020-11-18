@@ -2,6 +2,9 @@
 * Create a simple data warehouse for banking system
 * Create some procedures, functions and triggers to allow an executive serve their customer such as deposit money, withdraw money and check whether or not they applicable for a loan. 
 
+MySQL Server 8.0
+MySQL Workbench 8.0 CE
+
 #### EDR 
 ![alt text](https://github.com/DamHTran/Simple-Data-Management-of-Banking-System-/blob/master/ERD.png)
 
