@@ -6,19 +6,19 @@
 
 **MySQL Workbench:** 8.0 CE
 
-#### EDR 
+### EDR 
 ![alt text](https://github.com/DamHTran/Simple-Data-Management-of-Banking-System-/blob/master/ERD.png)
 
-#### Procedures
+### Procedures
 * insert_into_loan (add loan information)
 * check_loan_info (Check loan information of a customer)
 * check_financial_info (Check customer's financial infomation)
 
-#### Functions
+### Functions
 * get_installment
 * get_finded_amnt
 
-#### Trigger
+### Trigger
 * trig_upd_loan (dismiss any value < 0 when inserting into loan table)
 * deposit_balance (automate update balance when customer deposit money)
 * withdraw_balance (automate update balance when customer withdraw money)
